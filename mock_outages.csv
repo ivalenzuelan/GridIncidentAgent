@@ -1,0 +1,9 @@
+timestamp,station_id,type,duration_min,crew_notes
+2024-03-20 08:30:00,STN001,transformer,120,Transformer overheating - maintenance required
+2024-03-20 09:15:00,STN002,line,60,Line fault - tree contact
+2024-03-20 10:00:00,STN003,breaker,45,Circuit breaker malfunction
+2024-03-20 11:30:00,STN001,transformer,180,Oil leak detected
+2024-03-20 12:45:00,STN004,line,90,Storm damage to transmission line
+2024-03-20 14:00:00,STN002,transformer,240,Transformer cooling system failure
+2024-03-20 15:30:00,STN003,line,120,Underground cable fault
+2024-03-20 16:45:00,STN004,breaker,60,Protective relay malfunction 
